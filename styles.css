@@ -1,0 +1,11 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+#lista-resultados{
+    display: flex;
+    gap: 1rem;
+}
+li{
+    list-style: none;
+}
